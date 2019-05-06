@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 
+
+#TODO: Get data by year
 soccer = "http://www.nwslsoccer.com/stats#players"
 pull = requests.get(soccer)
 html = pull.content
