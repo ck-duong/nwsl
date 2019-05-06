@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
+#TODO: Get data by year
 base = 'http://www.nwslsoccer.com'
 teams = base + '/stats#teams'
 pull = requests.get(teams)
