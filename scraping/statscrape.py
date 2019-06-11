@@ -1,9 +1,7 @@
 """Individual NWSL Player Stat Scraper
-
 This script allows the user to scrape player stat data
 from the official NWSL website from 2016 - 2019, but
 can be modified to scrape a different range of years.
-
 This script requires that the packages imported below be installed 
 within the Python environment you are running this script in.
 """
@@ -40,6 +38,10 @@ for i in range(2016, 2020):
     df.columns = ['Player Name', 'Team', 'Games Played', 'Games Started', 'Minutes Played', 'Goals',
     'Assists', 'Shots', 'Shots on Goal', 'Fouls Committed', 'Offsides', 'Corner Kicks',
     'Penalty Kicks Attempted', 'Penalty Kick Goals', 'Yellow Cards', 'Red Cards']
+    
+    df['Team'] = df['Team'].replace('', 'KC') #recent NWSL update removed KC from the player HTML
+    df['Season'] = i #add the year for later reference
+    
     df = df.dropna() #remove team data
 
     name = 'nwsl{}.csv'.format(i)
