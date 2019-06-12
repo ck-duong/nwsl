@@ -3,7 +3,7 @@ Sam Kerr,CHI,19,19,1704,16,4,88,47,9,34,0,0,0,2,0,2018,
 Lynn Williams,NC,21,20,1707,14,5,93,41,12,25,1,2,1,1,0,2018,Attacker
 Lindsey Horan,POR,22,22,1980,13,2,50,30,49,3,1,1,0,5,0,2018,Midfielder
 Rachel Daly,HOU,24,24,2155,10,2,52,23,21,21,26,2,2,4,0,2018,Attacker
-Jodie Taylor,SEA,24,24,2088,9,1,46,35,28,45,0,2,1,3,0,2018,
+Jodie Taylor,SEA,24,24,2088,9,1,46,35,28,45,0,2,1,3,0,2018,Attacker
 Christine Sinclair,POR,24,24,2160,9,6,33,20,20,3,0,3,3,4,0,2018,Attacker
 Sofia Huerta,HOU,23,23,2032,8,6,65,32,13,2,42,2,2,1,0,2018,
 Debinha,NC,21,20,1728,8,2,40,22,13,4,26,0,0,0,0,2018,Midfielder
@@ -38,6 +38,7 @@ Vanessa DiBernardo,CHI,11,7,679,2,2,14,8,9,0,18,0,0,0,0,2018,Midfielder
 Beverly Yanez,SEA,19,14,1165,2,0,20,8,18,6,0,0,0,0,0,2018,Midfielder
 Thembi Kgatlana,HOU,16,2,376,2,3,13,5,11,7,0,0,0,1,0,2018,Attacker
 Shea Groom,NJ,21,17,1535,2,3,34,15,26,14,11,1,0,0,0,2018,Attacker
+Shea Groom,NJ,21,17,1535,2,3,34,15,26,14,11,1,0,0,0,2018,Attacker
 Kyah Simon,HOU,15,11,948,2,2,21,4,14,4,3,0,0,1,0,2018,
 Sarah Killion,NJ,24,24,2131,2,2,6,3,28,0,32,0,0,3,0,2018,Midfielder
 Alanna Kennedy,ORL,20,20,1800,2,1,29,7,21,0,0,0,0,2,0,2018,
@@ -47,17 +48,18 @@ Diana Matheson,UTA,21,18,1396,2,1,12,7,11,4,7,1,0,2,0,2018,Midfielder
 Christen Press,UTA,11,11,975,2,2,34,17,5,8,0,0,0,0,0,2018,Attacker
 Brittany Ratcliffe,UTA,10,4,366,2,0,3,3,5,2,0,0,0,2,0,2018,Attacker
 Mallory Pugh,WAS,15,13,1082,2,1,19,8,18,8,18,1,0,0,0,2018,Attacker
-Jessica Fishlock,SEA,18,18,1542,2,1,29,12,25,0,5,0,0,2,0,2018,
+Jessica Fishlock,SEA,18,18,1542,2,1,29,12,25,0,5,0,0,2,0,2018,Midfielder
+Jessica Fishlock,SEA,18,18,1542,2,1,29,12,25,0,5,0,0,2,0,2018,Midfielder
 Abby Erceg,NC,24,24,2160,2,2,20,5,8,0,0,0,0,1,0,2018,Defender
 Kristie Mewis,HOU,11,11,919,2,0,6,3,8,1,14,0,0,0,0,2018,Defender
 Dani Weatherholt,ORL,23,17,1658,2,0,11,8,23,2,0,0,0,1,0,2018,
 Emily Sonnett,POR,20,20,1755,1,1,3,2,19,1,0,0,0,5,0,2018,Defender
 Michele Vasconcelos,CHI,19,10,905,1,0,12,3,11,2,0,0,0,1,0,2018,Midfielder
 Linda Motlhalo,HOU,21,20,1788,1,1,11,3,5,3,0,0,0,0,0,2018,Midfielder
-Theresa Nielsen,SEA,20,18,1654,1,1,1,1,21,0,1,0,0,0,0,2018,
+Theresa Nielsen,SEA,20,18,1654,1,1,1,1,21,0,1,0,0,0,0,2018,Defender
 Megan Oyster,SEA,20,20,1800,1,2,2,1,20,0,0,0,0,3,0,2018,Defender
 Kristen Edmonds,ORL,15,13,1091,1,0,5,2,7,2,1,0,0,1,0,2018,Midfielder
-Jasmyne Spencer,SEA,22,8,949,1,0,16,8,14,7,0,0,0,1,0,2018,
+Jasmyne Spencer,SEA,22,8,949,1,0,16,8,14,7,0,0,0,1,0,2018,Attacker
 Rosie White,CHI,11,4,376,1,1,14,9,10,2,1,0,0,1,0,2018,Midfielder
 Rumi Utsugi,SEA,15,15,1239,1,0,15,5,11,1,0,0,0,0,0,2018,Midfielder
 Nichelle Prince,HOU,20,11,1022,1,2,17,6,16,20,0,0,0,0,0,2018,Attacker
@@ -111,6 +113,7 @@ Allison Wetherington,HOU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,
 Joanna Boyles,CHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Midfielder
 Meg Morris,POR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Attacker
 Ifeoma Onumonu,POR,8,3,311,0,0,6,3,6,8,0,0,0,0,0,2018,Attacker
+Ifeoma Onumonu,POR,8,3,311,0,0,6,3,6,8,0,0,0,0,0,2018,Attacker
 Margaret Purce,POR,19,15,1297,0,0,8,2,10,3,0,0,0,1,0,2018,Midfielder
 Janine van Wyk,HOU,20,20,1719,0,0,0,0,13,0,0,0,0,1,0,2018,Defender
 Allysha Chapman,NC,16,15,1349,0,1,2,0,15,0,0,0,0,2,0,2018,Defender
@@ -121,9 +124,9 @@ Sandra Yu,POR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Midfielder
 Elizabeth Addo,SEA,12,8,692,0,1,7,2,22,3,0,0,0,2,0,2018,
 Morgan Andrews,SEA,15,7,765,0,0,6,1,15,0,4,0,0,1,0,2018,Midfielder
 Yael Averbuch,SEA,1,1,90,0,0,0,0,0,0,0,0,0,0,0,2018,Midfielder
-Lauren Barnes,SEA,19,18,1679,0,0,4,1,12,0,5,0,0,2,0,2018,
+Lauren Barnes,SEA,19,18,1679,0,0,4,1,12,0,5,0,0,2,0,2018,Defender
 Madeline Bauer,SEA,1,0,16,0,0,0,0,0,0,0,0,0,0,0,2018,
-Steph Catley,SEA,16,16,1435,0,3,1,1,13,2,16,0,0,2,0,2018,
+Steph Catley,SEA,16,16,1435,0,3,1,1,13,2,16,0,0,2,0,2018,Defender
 Kiersten Dallstream,SEA,3,2,163,0,0,2,2,4,0,0,0,0,1,0,2018,Attacker
 Abby Dahlkemper,NC,19,19,1710,0,0,1,0,7,0,77,0,0,1,0,2018,Defender
 Jaycie Johnson,SEA,3,0,5,0,0,0,0,0,0,0,0,0,0,0,2018,Attacker
@@ -136,6 +139,7 @@ Summer Green,CHI,8,4,319,0,0,0,0,6,1,0,0,0,0,0,2018,Midfielder
 Jaelene Hinkle,NC,20,20,1779,0,4,7,1,13,0,32,0,0,1,0,2018,Defender
 Carlin Hudson,NC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Midfielder
 Christen Westphal,SEA,12,9,694,0,1,1,0,8,1,0,0,0,0,0,2018,Defender
+Darian Jenkins,NC,13,0,178,0,0,3,1,5,4,0,0,0,0,0,2018,Attacker
 Darian Jenkins,NC,13,0,178,0,0,3,1,5,4,0,0,0,0,0,2018,Attacker
 Michaela Abam,NJ,4,0,50,0,0,1,0,1,2,0,0,0,0,0,2018,
 Janine Beckie,NJ,15,11,1046,0,0,14,6,4,3,16,0,0,1,0,2018,
@@ -167,6 +171,7 @@ Rachel Corsie,UTA,24,23,2088,0,1,10,2,15,0,0,0,0,3,0,2018,
 Katrina Gorry,UTA,16,13,1069,0,1,18,9,15,1,28,0,0,1,0,2018,
 Samantha Johnson,UTA,16,15,1333,0,0,7,2,20,0,0,0,0,5,0,2018,
 Morgan Reid,NC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Defender
+Maegan Kelly,UTA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Attacker
 Maegan Kelly,UTA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Attacker
 Lo’eau LaBonta,UTA,16,8,824,0,0,2,1,12,1,0,0,0,0,0,2018,
 Taylor Lytle,UTA,10,4,449,0,2,1,1,1,1,2,0,0,0,0,2018,Midfielder
@@ -200,11 +205,11 @@ Bridget Callahan,ORL,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2018,
 Tiffany McCarty,WAS,1,1,70,0,0,0,0,2,2,0,0,0,0,0,2018,Attacker
 Alexa Newfield,WAS,1,0,20,0,0,0,0,0,0,0,0,0,0,0,2018,Midfielder
 Christine Creighton,ORL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,
-Morgan Proffitt,WAS,4,2,197,0,0,0,0,1,0,0,0,0,0,0,2018,
+Morgan Proffitt,WAS,4,2,197,0,0,0,0,1,0,0,0,0,0,0,2018,Midfielder
 Stephanie McCaffrey,CHI,2,0,10,0,0,0,0,2,1,0,0,0,0,0,2018,Attacker
 Rebecca Quinn,WAS,17,16,1384,0,0,3,0,4,0,0,0,0,1,0,2018,Midfielder
 Abby Elinsky,ORL,2,0,32,0,0,0,0,0,0,0,0,0,0,0,2018,Midfielder
-Taylor Smith,WAS,23,23,2064,0,1,7,3,13,4,0,0,0,1,0,2018,
+Taylor Smith,WAS,23,23,2064,0,1,7,3,13,4,0,0,0,1,0,2018,Defender
 Havana Solaun,WAS,13,5,496,0,1,5,0,4,1,7,0,0,0,0,2018,Midfielder
 Andi Sullivan,WAS,23,22,1984,0,1,26,9,10,0,0,1,0,0,0,2018,Midfielder
 Tiffany Weimer,WAS,3,1,84,0,0,0,0,0,2,2,0,0,0,0,2018,Midfielder

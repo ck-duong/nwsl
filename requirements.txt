@@ -1,0 +1,4 @@
+beautifulsoup4
+requests>=2.20.0
+plotly
+cufflinks
